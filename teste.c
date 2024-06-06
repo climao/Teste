@@ -6,4 +6,5 @@
 int main()
 {
 	printf("O meu primeiro projeto no git\n");
+	printf("A minha primeira alteração\n");
 }
