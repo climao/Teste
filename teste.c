@@ -6,7 +6,9 @@
 int main()
 {
 	printf("O meu primeiro projeto no git\n");
-	printf("A minha primeirissima alteração\n");
+	printf("A minha primeirissima alteraÃ§Ã£o\n");
 
-	printf("A minha quarta alteração\n");
+	printf("A minha quarta alteraÃ§Ã£o\n");
+
+        printf("Afonso Rodrigues\n");
 }
