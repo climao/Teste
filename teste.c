@@ -2,11 +2,17 @@
  * O meu primeiro projeto no git.
  */
 #include <stdio.h>
+#include <locale.h>
 
 int main()
 {
-	printf("O meu primeiro projeto no git\n");
-	printf("A minha primeirissima alteração\n");
+	setlocale(LC_CTYPE, "pt_PT");
 
-	printf("A minha quarta alteração\n");
+	printf("O meu primeiro projeto no git\n");
+	printf("A minha primeirissima alteraÃ§Ã£o\n");
+
+	printf("A minha quarta alteraÃ§Ã£o\n");
+	printf("Primeiro push feito por Diogo Rocha.\n");
+
+	return 0;
 }
