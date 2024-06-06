@@ -12,6 +12,10 @@ int main()
 	printf("A minha primeirissima alteração\n");
 
 	printf("A minha quarta alteração\n");
+
+  printf("Afonso Rodrigues\n");
+
+	printf("A minha quarta alteração\n");
 	printf("Quinta alteração, Bruno\n");
 
 	printf("A minha quarta alteração\n");
