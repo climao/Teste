@@ -21,5 +21,8 @@ int main()
 	printf("A minha quarta alteração\n");
 	printf("Primeiro push feito por Diogo Rocha.\n");
 
+	printf("A minha quarta alteração\n");
+	printf("Gonçalo morais,\n");
+
 	return 0;
 }
